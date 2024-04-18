@@ -8,8 +8,6 @@
 
 - 👨‍💻 Demo Project I am proud of. [ASP.NET 7.0 Dragon Bio Demo](https://www.loom.com/share/89496f5c50d24cb1b795fe9453483cd3?sid=f81c8498-835b-4756-bb1b-6af8df71fbe9)
 
-- - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/andreas-dreckmeyr)
-
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KO8uL89bf1MI-dvDptcmQ-9cGgC1vcZA/edit](https://docs.google.com/document/d/1KO8uL89bf1MI-dvDptcmQ-9cGgC1vcZA/edit)
 
 <h3 align="left">Connect with me:</h3>
