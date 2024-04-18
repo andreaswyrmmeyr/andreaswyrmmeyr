@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas Dreckmeyr</h1>
-<h3 align="center">Finding solutions for digital issues.</h3>
+<!-- <h3 align="center">Finding solutions for digital issues.</h3> -->
+[![Finding solutions for digital issues.](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreaswyrmmeyr&label=Profile%20views&color=0eb47d&style=flat" alt="andreaswyrmmeyr" /> </p>
 
