@@ -8,7 +8,7 @@
 
 - 👨‍💻 Demo Project I am proud of. [ASP.NET 7.0 Dragon Bio Demo](https://www.loom.com/share/89496f5c50d24cb1b795fe9453483cd3?sid=f81c8498-835b-4756-bb1b-6af8df71fbe9)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KO8uL89bf1MI-dvDptcmQ-9cGgC1vcZA/edit](https://docs.google.com/document/d/1KO8uL89bf1MI-dvDptcmQ-9cGgC1vcZA/edit)
+- 📄 Know about my experiences [Live Resume](https://docs.google.com/document/d/e/2PACX-1vR38oVPB52Kp1wiKqT6HY8fQzlCT0nS2lO2XK7GSf8ibmo93VwwiBbUUfD8elVj5Q/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
