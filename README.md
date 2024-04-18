@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [Live Resume](https://docs.google.com/document/d/e/2PACX-1vR38oVPB52Kp1wiKqT6HY8fQzlCT0nS2lO2XK7GSf8ibmo93VwwiBbUUfD8elVj5Q/pub)
 
-<h3 align="center" font="itatlic">Connect with me:</h3>
+<h3 align="center" font="bold">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/andreas-dreckmeyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas dreckmeyr" height="30" width="40" /></a>
 </p>
