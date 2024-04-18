@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Andreas Dreckmeyr</h1>
-<!-- <h3 align="center">Finding solutions for digital issues.</h3> -->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F7F1&random=false&width=435&lines=Finding+solutions+for+digital+issues." alt="Typing SVG" /></a></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andreaswyrmmeyr&label=Profile%20views&color=0eb47d&style=flat" alt="andreaswyrmmeyr" /> </p>
+<div>
+  <h1 align="center">Hi 👋, I'm Andreas Dreckmeyr</h1>
+  <!-- <h3 align="center">Finding solutions for digital issues.</h3> -->
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F7F1&random=false&width=435&lines=Finding+solutions+for+digital+issues." alt="Typing SVG" /></a></p>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreaswyrmmeyr&label=Profile%20views&color=0eb47d&style=flat" alt="andreaswyrmmeyr" /> </p>
+</div>
 
 
   - 🌱 I’m currently learning [**backend developer skills.**](https://roadmap.sh/u/andreaswyrmmeyr)
