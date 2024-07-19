@@ -8,7 +8,6 @@
 
 <div id="mid" align="center">
   
-  -- 🌱 I’m currently learning. 
   [![roadmap.sh](https://roadmap.sh/card/wide/65d44e5ccba7f7159fe9b28f?variant=dark)](https://roadmap.sh)
   
   -- 👨‍💻 Demo Project I am proud of. [ASP.NET 7.0 Dragon Bio Demo.](https://www.loom.com/share/89496f5c50d24cb1b795fe9453483cd3?sid=f81c8498-835b-4756-bb1b-6af8df71fbe9)
